@@ -1,0 +1,21 @@
+_repo: The-Life-of-Stephen-A-Douglas_2593
+creator:
+  author:
+    agent_name: Gardner, William
+    birthdate: 1861
+    gutenberg_agent_id: '973'
+    url: http://www.gutenberg.org/2009/agents/973
+description: ''
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Douglas, Stephen A. (Stephen Arnold), 1813-1861'
+title: The Life of Stephen A. Douglas
+url: http://www.gutenberg.org/ebooks/2593
